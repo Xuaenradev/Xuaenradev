@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Xuaenradev/Xuaenradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Arneaux, a aspiring cybersecurity analyst based in LA
 
-Here are some ideas to get you started:
+I try my best to desighn what I can imagine. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tool is my thinkpad i use as a partime homelab
+running my reverse proxy,my media storage, and my monitoring sytems 
+
+I plan to do tons of projects but my favorite one im working on is homebrew client for KOGMA
+
+
+
+
+Fun Facts:
+Im A huge pokemon fan 
+I enjoy builging mini games
