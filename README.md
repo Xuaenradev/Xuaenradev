@@ -13,5 +13,7 @@ I plan to do tons of projects but my favorite one im working on is homebrew clie
 
 
 Fun Facts:
+
 Im A huge pokemon fan 
-I enjoy builging mini games
+
+I enjoy building mini games
