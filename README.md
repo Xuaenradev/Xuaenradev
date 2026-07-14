@@ -1,23 +1,8 @@
 ## Hi there 👋
 
-Im Arneaux, a aspiring cybersecurity analyst based in LA
-
-I try my best to desighn what I can imagine. 
-
-My main tool is my thinkpad I use as a partime homelab
-running my reverse proxy,my media storage, and my monitoring sytems 
-
-I plan to do tons of projects but my favorite one im working on is homebrew client for KOGMA
-
-
-
-
-Fun Facts:
-
-Im A huge pokemon fan 
-
-I enjoy building mini games
-
+tech | design | wiw
+Creating useful and fun projects
+✉️: Xuaenra@protonmail.com
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
